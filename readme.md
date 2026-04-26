@@ -158,7 +158,7 @@ Random UUIDs:
 * fewer index splits
 
 👉 Read more & test:
-https://uuidbuilder.com/uuid/v4-vs-v7
+https://uuidbuilder.com/uuid/compare/v4-vs-v7
 
 ---
 

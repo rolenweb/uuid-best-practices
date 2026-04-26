@@ -224,7 +224,7 @@ Stay tuned.
   https://uuidbuilder.com/uuid/v7
 
 * UUID Comparisons
-  https://uuidbuilder.com/compare/uuid-v4-vs-v7
+  https://uuidbuilder.com/uuid/compare/v4-vs-v7
 
 ---
 
